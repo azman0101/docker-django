@@ -56,5 +56,3 @@ target/
 # Vim
 .ropeproject
 
-# Django App
-webapp/starter/fs_explorer/
