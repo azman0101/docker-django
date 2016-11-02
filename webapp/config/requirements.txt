@@ -1,3 +1,11 @@
-django==1.9.6
-uwsgi==2.0.12
-psycopg2==2.6.1
+Django==1.10.3
+django-filer==1.2.5
+django-mptt==0.8.6
+django-polymorphic==1.0.2
+easy-thumbnails==2.3
+Pillow==3.4.2
+psycopg2==2.6.2
+pytz==2016.7
+Unidecode==0.4.19
+uWSGI==2.0.14
+shinto-cli
